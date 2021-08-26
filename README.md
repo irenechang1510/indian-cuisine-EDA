@@ -1,6 +1,6 @@
 # Indian cuisine EDA
 
-A project from Kaggle, exploring the relationships between different factors in Indian dishes
+A project from Kaggle, exploring the relationships between different factors in Indian dishes. Check out my article on Medium [here](https://towardsdatascience.com/the-struggles-and-the-tips-what-i-learn-from-doing-my-own-classification-project-dc1e70937b09?source=collection_tagged---------0----------------------------): 
 
 My first analysis of this dataset was in 2019, when I started my first few data science projects, using R. Two years later, 2021, I decided to revisit my project and do the analysis again in Python, applying the knowledge and skills I have gained in the past two years. 
 
