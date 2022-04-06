@@ -1,4 +1,4 @@
-# Indian cuisine EDA
+# Indian cuisine EDA 
 
 A project from Kaggle, exploring the relationships between different factors in Indian dishes. The goal is to categorize the cooking time of Indian dishes using the ingredients as the main indicators. A potential application is that for restaurants or mobile ordering services, we can give a more accurate estimated time until the dish is done for customers.
 
